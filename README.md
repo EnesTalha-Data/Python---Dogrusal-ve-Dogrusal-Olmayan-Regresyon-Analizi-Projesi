@@ -21,3 +21,5 @@ Bu proje Kaggle üzerinden alınmış "Chicago House Price" veri seti ile yapıl
 - Veri ön işleme
 - Grafikler ile yorumlama
 - Özet tablosu
+
+ Not: Kullanılan veri seti (realest.csv).
